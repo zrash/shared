@@ -2,3 +2,20 @@ ${s} = source directory
 ${D} = Destination directory
 PN = Package Name
 PV = Package Version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Misc:
+striplevel
